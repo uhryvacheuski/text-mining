@@ -1,6 +1,10 @@
 # text mining.
 Corpus = 1883 documents (opinions)
 
+Used technologies:
+- R
+- Python 
+
 Used methods
 - Stemming
 - TF-IDF
