@@ -1,4 +1,3 @@
-#LAB 2
 library(tm)
 library(snowballc)
 library(ggplot2)
